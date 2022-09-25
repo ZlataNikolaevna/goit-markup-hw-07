@@ -1,0 +1,22 @@
+.section__portfolio{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.portfolio{
+}
+
+.portfolio__filter{
+    display: flex;
+    justify-content: center;
+    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: center;
+    color: var(--text-secondary-color)
+}
+
+.portfolio__grid{
+    margin-right: -30px;
+    margin-bottom: -30px;
+}
