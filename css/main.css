@@ -189,8 +189,8 @@ h3 {
 .hero {
   text-align: center;
   background-color: var(--hero-background-color);
-  background-image: -webkit-gradient(linear, left top, right top, from(var(--overlay-gradient-color)), to(var(--overlay-gradient-color))), url(../../images/hero/bg-hero.jpg);
-  background-image: linear-gradient(to right, var(--overlay-gradient-color), var(--overlay-gradient-color)), url(../../images/hero/bg-hero.jpg);
+  background-image: -webkit-gradient(linear, left top, right top, from(var(--overlay-gradient-color)), to(var(--overlay-gradient-color))), url(../../images/bg-hero.jpg);
+  background-image: linear-gradient(to right, var(--overlay-gradient-color), var(--overlay-gradient-color)), url(../../images/bg-hero.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
